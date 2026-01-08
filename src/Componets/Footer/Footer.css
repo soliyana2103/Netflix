@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.footerOuter {
+    color: white;
+    background-color: rgba(0, 0, 0, 0.095);
+
+}
+.footerInner {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    
+}
+.footerInner li {
+    list-style: none;
+    font-weight:100;
+    margin-bottom: 18px;
+    color: gray;
+}
+.iconContainer {
+    display: flex;
+    gap: 12px;
+   
+}
+
